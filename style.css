@@ -7,12 +7,24 @@
 .btn {
   margin: 10px;
 }
-
-.navbar {
+.navbar-light .navbar-brand {
   color: white;
-  background-color: blue;
+}
+.navbar-light .navbar-nav .active > .nav-link {
+  color: white;
 }
 
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
 a {
   color: white;
+}
+
+.navbar-toggler {
+  background-color: white;
+}
+
+.navbar-toggler-icon {
+  color: blue;
 }
