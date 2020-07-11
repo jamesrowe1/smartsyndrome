@@ -1,13 +1,9 @@
 .jumbotron {
   background-color: blueviolet;
   color: white;
-
-  /* display: flex;
-  align-items: center;
-  text-align: center; */
+  text-align: center;
 }
 
-/* .container {
-  margin-left: auto;
-  margin-right: auto;
-} */
+.btn {
+  margin: 10px;
+}
