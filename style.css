@@ -7,3 +7,12 @@
 .btn {
   margin: 10px;
 }
+
+.navbar {
+  color: white;
+  background-color: blue;
+}
+
+a {
+  color: white;
+}
