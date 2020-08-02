@@ -28,3 +28,7 @@ a {
 .navbar-toggler-icon {
   color: blue;
 }
+
+#quote {
+  font-weight: bold;
+}
