@@ -14,6 +14,6 @@ prizeWheel.on("click", function () {
   let chooser = Math.floor(Math.random() * possiblePrize.length);
   prizeWheelResult.text(possiblePrize[chooser]);
   prizeWheelResult.append(
-    "<br /><br />Disclaimer: This prize is merely speculation and is unlikely to be correct. As such, this app should be used and trusted by no one"
+    "<br /><br />Disclaimer: This prize is merely speculation and is unlikely to be correct. As such, this app should be used and trusted by no one."
   );
 });
