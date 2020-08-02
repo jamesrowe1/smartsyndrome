@@ -32,3 +32,7 @@ a {
 #quote {
   font-weight: bold;
 }
+
+p {
+  margin-left: 15px;
+}
