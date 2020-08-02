@@ -6,7 +6,7 @@ const possiblePrize = [
   "Extra Shifts! You're just so good we want you to work more!",
   "MONEY! 'Nuff said",
   "Free Food! It how they bribe you to keep working harder!",
-  "Therapy Sessions! We all need it at this point.",
+  "Therapy Sessions! I'm a website, and I need it. I don't know how you get by.",
   "A dedicated secretary to do your paperwork! This would actually make you try to win every week wouldn't it?",
 ];
 
